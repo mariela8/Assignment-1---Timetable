@@ -22,3 +22,7 @@ td.time{
     font-family: Arial, sans-serif;
     white-space: nowrap;
 }
+.lecturer, .code, .room {
+    font-size: 0.8em;
+    color: #333;
+}
